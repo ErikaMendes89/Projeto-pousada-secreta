@@ -52,11 +52,10 @@ O projeto é composto por duas páginas principais:
 -Links externos são abertos em novas guias (target="_blank") para uma experiência de usuário contínua.
 -Ícones de redes sociais ou links para reservas externas (por exemplo, Booking.com) podem ser adicionados.
 
-🛠️ Execução do Projeto
+# 🛠️ Execução do Projeto
 -Clone ou faça o download do repositório.
 -Abra os arquivos HTML em um navegador web para visualizar a aplicação.
-
-🌐 Conclusão
+# 🌐 Conclusão
 O projeto "Pousada Secreta" foi desenvolvido para a conclusão de mais um modulo no curso do DevMedia com isso demonstra boas práticas de desenvolvimento web, focando na estrutura semântica do HTML, na estilização responsiva, na organização do CSS e na apresentação clara de informações. 
 Este README fornece uma visão geral, mas sinta-se à vontade para expandir conforme necessário, incluindo instruções adicionais de configuração, funcionalidades específicas ou requisitos de desenvolvimento.
 
